@@ -4,3 +4,5 @@
 
 const ListaAmigo = [];
 let NombreAmigo = ""
+
+//Funcion
