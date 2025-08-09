@@ -2,4 +2,5 @@
 
 //Declaración de variables
 
-Amigo = [];
+const ListaAmigo = [];
+let NombreAmigo = ""
